@@ -5,6 +5,8 @@ This project is super cool! It actually records where the bus is heading in real
 ## Installation:
 You can 'git clone' or save the .zip file. Have fun with your coding editor! 
 
+Here is the live version: https://farrahj99.github.io/Real-Time-Bus-Tracker/
+
 ## Usage:
 In order to create a location tracker, you would have to use mapbox.com or something similar to it and you would need an API access token. 
 
